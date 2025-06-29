@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayaanhussain2806
 - 👀 I’m interested in software development, building scalable applications, and exploring new technologies.
-- 🌱 I’m currently learning full-stack development with a focus on [JavaScript, React, Node.js, Python, etc.] and also leaning Data Structures and Algorithms.
+- 🌱 I’m currently diving deeper into Machine Learning and Generative AI — exploring how intelligent systems can be used to build creative, impactful solutions.
 - 💞️ I’m looking to collaborate on open-source projects, web development, and innovative software solutions.
 - 📫 How to reach me [Linked in :- https://www.linkedin.com/in/ayaan-hussain-5bb220289/ , E-mail :- hussainayaan351@gmail.com]
 - 😄 Pronouns: He/Him
