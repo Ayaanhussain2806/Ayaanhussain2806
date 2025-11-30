@@ -1,5 +1,31 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>CyberGuard Pro (ransomware simulator), a multimodal fake-news detector, and real-time video analytics tools.<br><br>🤝 I’m looking to collaborate on<br><br>AI/ML, cybersecurity tools, full-stack projects, and research-based ML applications.<br><br>🆘 I’m looking for help with<br><br>Advanced DSA, system design, and optimizing ML model deployment.<br><br>🌱 I’m currently learning<br><br>Java DSA, backend engineering, cloud deployment, and advanced AI/ML.<br><br>💬 Ask me about<br><br>Machine Learning, Python, Java, React/TS, NumPy, Pandas, and real-world AI projects.<br><br>⚡ Fun fact<br><br>I enjoy turning complex ideas into full working projects—usually way bigger than planned. 😄
+👋 Hey there! What brings you here? Lost? Curious? Or just stalking my commits? 😄
+
+Now that you're here — welcome to my profile! I'm Ayaan.
+
+🔭 Working on
+
+CyberGuard Pro, a fake-news detector, and real-time video analytics tools.
+
+🤝 Open to collaborate on
+
+AI/ML, cybersecurity tools, full-stack projects, and ML research.
+
+🆘 Need help with
+
+Advanced DSA, system design, and deploying ML models efficiently.
+
+🌱 Currently learning
+
+Java DSA, backend engineering, cloud, and advanced AI/ML.
+
+💬 Ask me about
+
+Machine Learning, Python, Java, React/TS, NumPy, Pandas, and practical AI apps.
+
+⚡ Fun fact
+
+I turn “small ideas” into unnecessarily big projects for fun. 😄
 
 
 ## 🌐 Socials:
